@@ -14,6 +14,9 @@ Ce type de service permet d'assurer l'accessibilité d'un application par une en
 W3C est un consortium qui devellope des standards et des guidelines afin d'aider la construction d'un internet accessible. Il distribue donc des informations de qualité sur l'Internationalization afin de réduire l'accessibilité linguistique et régionnale.
 ## [Debian I18N](https://wiki.debian.org/I18n)
 Debian est une distribution Linux bien connue. Cette source nous permet d'observer quelle fonctionnalités est implémentée dans un contexte d'un produit grand publique.
+# Qualité logicielle
+## [ISO25010](https://www.perforce.com/blog/qac/what-is-iso-25010)
+La norme ISO 25010 définit les différentes qualité logicielle. L'accès directe à cette norme étant [payant](https://www.iso.org/standard/78175.html), notre source est une introduction à cette norme.
 # Recherches
 ## [Etude sur l’accessibilité inclusive du web pour les personnes souffrant de handicaps cognitifs](https://digital-strategy.ec.europa.eu/fr/library/commission-publishes-study-inclusive-web-accessibility-persons-cognitive-disabilities)
 Cette étude de la commission européenne sur l'accessibilité cognitifs en mars 2021 permet de mieux comprendre les enjeux liés à l'utilisation des appareils, et plus spécifiquement du web, par les personnes présentant un handicape cognitif.
