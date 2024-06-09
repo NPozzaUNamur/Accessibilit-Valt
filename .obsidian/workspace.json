@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c70ff5018d9c1738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIP.md",
+                "file": "Accessibilité.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIP.md",
+                "file": "Accessibilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIP.md",
+                "file": "Accessibilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIP.md"
+                "file": "Accessibilité.md"
               }
             }
           }
@@ -159,9 +147,9 @@
   },
   "active": "dc097207bcb667a3",
   "lastOpenFiles": [
-    "Sources Disponibles.md",
-    "Nos Sources.md",
+    "VIP.md",
     "Accessibilité.md",
-    "VIP.md"
+    "Sources Disponibles.md",
+    "Nos Sources.md"
   ]
 }
