@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Accessibilité.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,9 +147,11 @@
   },
   "active": "dc097207bcb667a3",
   "lastOpenFiles": [
-    "VIP.md",
+    "!Utilisabilité.md",
     "Accessibilité.md",
+    "Utilisabilité.md",
     "Sources Disponibles.md",
+    "VIP.md",
     "Nos Sources.md"
   ]
 }
