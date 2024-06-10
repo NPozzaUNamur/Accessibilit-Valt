@@ -24,8 +24,12 @@ L'I18N permet donc aux développeurs de **concevoir des produits** pouvant s'adr
 ## Cognition
 Ce type est consacré aux **méthodes** permettant de **réduire l’effort cognitif** nécessaire afin d’**utiliser** le **produit**. Elle a pour **but** de **rendre l’utilisation possible et agréable** à des personnes **présentant** des **troubles** *dys*. Mais celle-ci est **profitable** pour **tout un chacun**. 
 
-Il faut entendre par effort cognitif, l’effort intellectuel engendré lorsqu’un utilisateur effectue  
-un processus tel que remplir un formulaire ou lire un texte.
+Il faut entendre par effort cognitif, l’effort intellectuel engendré lorsqu’un utilisateur effectue un processus tel que remplir un formulaire ou lire un texte.
+
+Cette accessibilité peut prendre **plusieurs formes**.
+- **Assistance**: L'implémentation d'outils d'assistance au sein de produit logiciel permet de rendre ceux-ci plus accessibles. On peut cité des outils bien connus comme le lecteur simplifié des navigateurs web permettant de retirer toutes les distractions, ou encore la dictée permettant de remplir du texte via la parole. On remarque donc que dans le premier cas, l'effort cognitif demander pour lire une page web est réduit. Et dans le second cas, cette outils permet au personne présentant des troubles d'utiliser le produit.
+- **Guideline**: La prise en compte de guideline est une base de l'accessibilité. Ici, on parle des guidelines issues du principes de *Compréhension* du WCAG. 
+
 ## Multisensorielle
 L’accessibilité **multisensorielle** est un regroupement de trois autres types : accessibilité **auditive**, **physique** et **visuelle**.
 ## Matérielle
