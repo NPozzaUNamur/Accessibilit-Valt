@@ -1,5 +1,5 @@
 # Guidelines
-## [Belgian Web Accessibility](https://accessibility.belgium.be/fr/crit%C3%A8res)
+## [Belgian Web Accessibility](https://accessibility.belgium.be/fr/crit%C3%A8res) ★☆☆☆☆
 En qualité de patriote, nous avons consulté les lignes de conduites belges pour diversifier nos sources.
 ## [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/fr)
 Depuis sa première version en 1999 jusqu'à nos jours, WCAG s'est posé en tant que référence mondiale dans le monde de l'accessibilité numérique. Développer par W3C et WAI, elle contient 4 principes décomposés en un total de 13 guideline. Et qui elles mêmes sont composée de plusieurs critères de réussite.

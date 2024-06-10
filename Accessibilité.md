@@ -5,9 +5,18 @@ Il est **important** de la prendre en compte lors de la **conception** d’un pr
 
 # Lien Avec d’Autres Qualités
 
-Il est fréquent de mélanger les concepts d’**accessibilité** et d’**[utilisabilité](Utilisabilité)**, d’où l’importance de distinguer ces deux aspects. L’**objectif** de l’**accessibilité** est de rendre l’application **accessible** à **tous,** y compris aux **personnes en situation de handicap**, afin d’**assurer** une **utilisation équitable**. En revanche, l’**utilisabilité** vise à **optimiser l’efficacité** de l’application. 
+## Utilisabilité
 
-L’**accessibilité contient** des éléments de **[robustesse](Robustesse)**. Une **application accessible** doit pouvoir être **robuste** à des **changements de contenu,** aux **outils d’assistance,** etc.
+Il est fréquent de mélanger les concepts d’**accessibilité** et d’**[utilisabilité](Utilisabilité)**. À juste titre car ces **deux termes sont proches**, cependant la notion d'**accessibilité est plus large**, et **contient** donc la notion d'**[utilisabilité](Utilisabilité)**. Cette dernière est présentée comme l'**[un des 4 principes du standard WCAG](WCAG#utilisable)**. 
+
+Mais pour être complet, certains aspects de **[utilisabilité](Utilisabilité)** n'est tout de même pas repris dans le stadard comme l'attractivié. Ce qui est vraiment intérressant au niveau de l'**accessibilité** est la ***compréhensibilité*** ou encore ***opérabilité***.
+
+## Robustesse
+
+L’**accessibilité contient** des éléments de **[robustesse](Robustesse)**. Une **application accessible** doit pouvoir être **robuste** à des **changements de contenu,** aux **outils d’assistance,** etc. 
+
+Cette qualité logicielle est un **[principe du standard WCAG](WCAG#robuste)**.
+
 # Les Types d’Accessibilité
 L'accessibilité peut être déclinée en plusieurs types différents, dans notre cas, nous avons choisi : la **langue,** la **cognition,** l’accessibilité **multisensorielle** et l’accessibilité **matérielle**.
 ## Langue
@@ -19,7 +28,7 @@ Ceci est le sujet du **standard d'I18N**, à savoir l'*internationalization*. Ce
 * **Unités de mesure, Zone horraire, Date**: Il est essentiel de prendre en charge les **différentes unités de mesure utilisées** dans différentes régions du monde, ainsi que les **formats de date et d'heure spécifiques** à chaque culture. Cela permet aux utilisateurs de **comprendre et d'interagir avec les informations** temporelles de manière accessible et adaptée à leurs besoins. 
 * **Normes culturelle**: Malgré une signification universelle apparante des **symboles**, ceux-ci **ne sont pas** toujours **compris de la même manière** selon la culture de l'**utilisateur**. Il est donc important de faire un **étude préalable de la culture** des symboles dans chaque regions visées. Un exemple connu est la signification du symbole `✓` qui, au japon peut signifier `incorrecte`.
 
-L'I18N permet donc aux développeurs de **concevoir des produits** pouvant s'adresser au **monde entier**. Cependant, la **couverture** de cette normes n'est que **partielle**. Il est encore **nécessaire** d'effectuer de la **recherche dans ce domaine**. Notamment sur un point assez controversé qu'est les raccourcis claviers. Faut-il les adapter à la langue de l'utilisateur ?
+L'**I18N** permet donc aux développeurs de **concevoir des produits** pouvant s'adresser au **monde entier**. Cependant, la **couverture** de cette normes n'est que **partielle**. Il est encore **nécessaire** d'effectuer de la **recherche dans ce domaine**. Notamment sur un point assez controversé qu'est les raccourcis claviers. Faut-il les adapter à la langue de l'utilisateur ?
 
 ## Cognition
 Ce type est consacré aux **méthodes** permettant de **réduire l’effort cognitif** nécessaire afin d’**utiliser** le **produit**. Elle a pour **but** de **rendre l’utilisation possible et agréable** à des personnes **présentant** des **troubles** *dys*. Mais celle-ci est **profitable** pour **tout un chacun**. 
@@ -28,9 +37,16 @@ Il faut entendre par effort cognitif, l’effort intellectuel engendré lorsqu�
 
 Cette accessibilité peut prendre **plusieurs formes**.
 - **Assistance**: L'implémentation d'**outils d'assistance** au sein de produit logiciel permet de rendre ceux-ci plus **accessibles**. On peut cité des outils bien connus comme le **lecteur simplifié** des navigateurs web permettant de retirer toutes les distractions, ou encore la **dictée** permettant de remplir du texte via la parole. On remarque donc que dans le premier cas, l'**effort cognitif** demander pour lire une page web est **réduit**. Et dans le second cas, cette outils permet au **personne** présentant des **troubles d'utiliser le produit**.
-- **Guideline**: La prise en compte de **guideline est une base de l'accessibilité**. Ici, on parle des **guidelines** issues du principes de ***Compréhension* du WCAG**. 
+- **Guideline**: La prise en compte de **guideline est une base de l'accessibilité**. Ici, on parle des **guidelines** issues du principes de **[*Compréhension* du WCAG](WCAG#compréhensible)**. 
 
 ## Multisensorielle
-L’accessibilité **multisensorielle** est un regroupement de trois autres types : accessibilité **auditive**, **physique** et **visuelle**.
+L’accessibilité **multisensorielle** est une branche de l'accessibilité répondant aux besoins des presonnes présentant des handicapes **auditive**, **physique**, **visuelle**, ou autres, à intéragir avec les produits numériques.
+
+L'**utilisation d'outils d'accessibilité tiers** est courante dans cette branche. En effet, des **outils spécialisés** sont apparues pour répondre aux **besoins** à un **niveau global**. Malgré cela, il est tout de même **important** que les produits logiciels s'**adapte aux nouveaux usages de leurs platforme**. Tout cela est reprit dans le **standard WCAG** sous le principe de ***[robustesse](WCAG#robuste)*** ou de ***[perception](WCAG#perceptible)***.
+
+Au delà des concidération liée au outils, il est important d'aborder les autres aspects plus commun. La plus part des personnes ne présente que des **handicapes légers** comme le daltonisme ou la presbyacousie. Un produit se doit donc de respecter des ***guidelines*** permettant de **répondre à leurs besoins aussi**.
+
+Paradoxallement, l'**accessibilité** orienté pour les personnes en présence d'**handicape** est le plus **connu du grand publique** tout en n'étant **pas** aussi bien **standardisée**, ni **balisée** et ni **implémenté** que les autres aspects moins connus. Une [étude](https://makeitfable.com/insights/insights-the-state-of-online-shopping-for-people-with-disabilities/) a montré que ce type d'utilisateur **rencontre encore de nombreux problème** pour effectuer des actions aussi simple que de **commander** des biens sur **internet**.
+
 ## Matérielle
 Dans cette section de la grille, nous allons parler davantage d’une partie **physique du logiciel,** à savoir **son/ses supports**. Mais aussi comment sont **prises** en **charge** les **images/vidéos** en fonction du **temps** de **chargement**, d’une **connexion faible,** si une description textuelle est disponible.
