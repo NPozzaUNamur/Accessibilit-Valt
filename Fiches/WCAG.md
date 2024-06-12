@@ -9,7 +9,7 @@
 **Exemples de mises en œuvre** :
 
 - **Texte alternatif pour les images** : Fournir des descriptions textuelles pour les images afin que les lecteurs d'écran puissent les interpréter.
-- **Contrastes suffisants** : Utiliser des contrastes de couleurs suffisants entre le texte et l'arrière-plan pour que le texte soit lisible.
+- **Contrastes suffisants** : Utiliser des contrastes de couleurs suffisants entre le texte et l'arrière-plan pour que le texte soit lisible.![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUfyMVjuXPOd93_NfbeS1Xa8LCHDhefwhZBUJc_XofGjs1y0z6Z32qc8l9o3QWnrLfw5hj-n_H2PR2YnjocmtlSzJ9O1T7D8A9ib5dkHq5wmfCUPlwD6vWTOylJtfsuHw50ct1gfYHxrzCutRRlQehH4thKeH7gO=s2048?key=lfUM58jgLTnDFGO85L3iMQ)
 - **Sous-titres et descriptions audio** : Ajouter des sous-titres aux vidéos et des descriptions audio pour le contenu visuel.
 - **Adaptabilité du contenu** : Permettre aux utilisateurs de modifier la taille du texte et d'autres paramètres visuels.
 
