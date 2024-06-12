@@ -13,11 +13,11 @@ Vous pouvez consulter la réponse a ces interrogations dans la rubrique [Accessi
 Toutes les sources utilisées sont disponible dans la rubrique [Nos Sources](Nos%20Sources).
 ### Évaluation de la fiabilité, de la pertinence et de la diversité des sources
 Chaque source est évalue selon un critère bien précis et obtiens au final une note allant de 1 à 5, 1 voulant dire que la source n'a aucun des points suivant et 5 veut dire qu'elle les a tous:
--La notoriété de la source
--La reconnaissance/ l'avis commun sur la source
--Le qualité du support de diffusion sur lequel on retrouve source
--La neutralité de la source
--La source de la source
+- La notoriété de la source
+- La reconnaissance/ l'avis commun sur la source
+- La qualité du support de diffusion sur lequel on retrouve source
+- La neutralité de la source
+- La source de la source
 
 ## Éléments Abordés par le VIP
 ### Quels sont les éléments abordés par le VIP que vous aviez totalement manqués dans votre travail préparatif ?
